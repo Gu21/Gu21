@@ -1,6 +1,4 @@
-
-
-
+![image-github](https://user-images.githubusercontent.com/79690181/142301065-6f845406-c125-4f10-9714-1971fd760daa.png)
 
 
 **Gu21/Gu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
