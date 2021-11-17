@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Space-Invaders](https://user-images.githubusercontent.com/79690181/142255485-15ed0f58-23ff-4423-822e-95164e5a9450.gif)
+
 
 
 **Gu21/Gu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
