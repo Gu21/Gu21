@@ -1,4 +1,4 @@
-![image-github](https://user-images.githubusercontent.com/79690181/143506758-6738000f-2500-4289-8e81-bcef853e7d54.gif)
+![image-github](https://user-images.githubusercontent.com/79690181/143507407-4319aef4-8d8e-4a48-8b29-af3963ec71f4.gif)
 
 
 # My skills
