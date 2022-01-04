@@ -10,4 +10,18 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourGithubUsername" />
 </p>
 # Links
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx"> <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
+<p align="center">
+  <br/>
+  <a href="mailto:guillaumebisson56@gmail.com?subject=Bonjour!">
+    <img alt="guillaumebisson56l@gmail.com" height="50px" width="50px" src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2017/02/gmail-logo.jpg" />
+  </a>
+  <a href="https://www.rollet-raphael.com/">
+    <img alt="Mon site web" width="50px" src="https://www.rollet-raphael.com/img/logo.d5820305.png" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCJZkKNgLmASmb9EvLQU2saQ?view_as=subscriber">
+    <img alt="Ma chaine Youtube" width="50px" src="http://www.rollet-raphael.com/img/youtube.94295b9e.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/rollet-raphael/">
+    <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  </a>
+</p>
