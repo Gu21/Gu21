@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=toutvukantabu.toutvukantabu" alt="visitor badge"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A"/>
 </p>
 
 
