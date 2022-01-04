@@ -14,15 +14,9 @@
 <p align="center">
   <br/>
   <a href="mailto:guillaumebisson56@gmail.com?subject=Bonjour!">
-    <img alt="guillaumebisson56l@gmail.com" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU9lQvRchXF7sWWM_W1Udd7-1_TRJponE4w&usqp=CAU" />
+  <img alt="guillaumebisson56l@gmail.com" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU9lQvRchXF7sWWM_W1Udd7-1_TRJponE4w&usqp=CAU" />
   </a>
-  <a href="https://www.rollet-raphael.com/">
-    <img alt="Mon site web" width="50px" src="https://www.rollet-raphael.com/img/logo.d5820305.png" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCJZkKNgLmASmb9EvLQU2saQ?view_as=subscriber">
-    <img alt="Ma chaine Youtube" width="50px" src="http://www.rollet-raphael.com/img/youtube.94295b9e.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/rollet-raphael/">
-    <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  <a href="https://www.linkedin.com/in/guillaume-bisson-323067212/">
+    <img alt="Linkedin BISSON Guillaume"  height="100px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-    LinkedIn_logo_initials.png" />
   </a>
 </p>
