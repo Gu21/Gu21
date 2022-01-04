@@ -12,7 +12,8 @@
 
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gu21&hide=stars&show_icons=true&count_private=false&theme=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=Gu21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https : //github-readme-stats.vercel.app/api/top-langs/?username=Gu21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
