@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Gu21.Gu21" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Gu21.Gu21" alt="visitor badge" width="100px"/>
 </p>
 ![visiteurs](https://visitor-badge.glitch.me/badge?username=Gu21)
 <img src="https://profile-counter.glitch.me/{Gu21}/count.svg"/>
