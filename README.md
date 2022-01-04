@@ -12,7 +12,7 @@
 
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourGithubUsername" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gu21&hide=stars&show_icons=true&count_private=false&theme=white" />
 </p>
 
 
