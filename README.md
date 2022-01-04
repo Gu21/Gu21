@@ -1,7 +1,7 @@
 <p  align="center">
   <img src="https://profile-counter.glitch.me/{Gu21}/count.svg"/>
 </p>
-![visiteurs](https://visitor-badge.glitch.me/badge?Gu21=Gu21)
+![visiteurs](https://visitor-badge.glitch.me/badge?username=Gu21)
 
 ![image-github](https://user-images.githubusercontent.com/79690181/143508591-30628af0-9ae3-4cc4-b623-e08d0f8cd982.gif)
 
