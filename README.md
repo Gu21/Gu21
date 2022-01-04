@@ -14,7 +14,7 @@
 <p align="center">
   <br/>
   <a href="mailto:guillaumebisson56@gmail.com?subject=Bonjour!">
-    <img alt="guillaumebisson56l@gmail.com" height="50px" width="50px" src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2017/02/gmail-logo.jpg" />
+    <img alt="guillaumebisson56l@gmail.com" height="50px" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlU9lQvRchXF7sWWM_W1Udd7-1_TRJponE4w&usqp=CAU" />
   </a>
   <a href="https://www.rollet-raphael.com/">
     <img alt="Mon site web" width="50px" src="https://www.rollet-raphael.com/img/logo.d5820305.png" />
